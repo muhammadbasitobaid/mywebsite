@@ -1,0 +1,34 @@
+body{
+    background-color: #f0ebeb!important;
+}
+h1{
+    color: red;
+}
+
+.col-md-6, .col-md-3, .col-md-9{
+    padding: 15px!important;
+}
+
+#profile-pic{
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+#profile-wrapper{
+    text-align: center;
+}
+ul{
+    padding: 0;
+    list-style: none;
+}
+
+.social{
+    width: 20px;
+    height: 20px;
+    float: left;
+    margin: 0 5px;
+
+}
